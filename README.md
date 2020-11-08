@@ -32,58 +32,52 @@
 - Lalu pilih menu file - New File atau juga bisa tekan **CTRL + N**
 - contoh nya seperti ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/menu%20nex%20file.PNG)
+![Gambar1](Latihan1/Gambar/gbr1.png)
 
 
 - Jika sudah lakukan kodingan seperti gambar di bawah ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/kodingan%20latihan1.PNG)
+![Gambar2](Latihan1/Gambar/gbr2.PNG)
 
 
-- Jika sudah kalian bisa save program kalian dengan tekan **CTRL+S** atau mengklik menu file - save as dan beri nama pada program kalian
+- Jika sudah kalian bisa save program kalian dengan tekan **CTRL+S** atau mengklik menu file - save as dan beri nama pada program kalian, seperti contoh dibawah ini :
+
+![Gambar3](Latihan1/Gambar/gbr3.png)
+
 - lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN**
-- Perhatikan gambar dibawah ini !
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/save%20as%20dan%20run.png)
-
-
+![Gambar4](Latihan1/Gambar/gbr4.png)
 
 - Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/Hasil%20Latihan1.PNG)
+![Gambar5](Latihan1/Gambar/gbr5.PNG)
 
 
 - Berikut penjelasan dari program diatas
 
-print ('Masukkan nilai N: 5')
+      1. print ('Masukkan nilai N: 5')
+      2. import random
+      3. jumlah = 5
+      4. a = 0
+      5. for x in range(jumlah):
+      6.     i = random.uniform(.0,.5)
+      7.     a+=1
+      8.     print('data ke:',a,'==>', i)
 
-import random
+      9. print ('selesai')
 
-jumlah = 5
+## PENJELASAN
+- "print"  : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
-a = 0
+- "import" : fungsi lanjut yang dipanggil oleh statement import.
 
-for x in range(jumlah):
+- "random" : untuk menentukan suatu pilihan.
 
-i = random.uniform(.0,.5)
+- "range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
 
-a+=1
-
-print('data ke:',a,'==>', i)
-
-print ('selesai')
-
-"print"  : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
-
-"import" : fungsi lanjut yang dipanggil oleh statement import.
-
-"random" : untuk menentukan suatu pilihan.
-
-"range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
-
-"uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+- "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 
 # Alur Algoritma Latihan2.py
