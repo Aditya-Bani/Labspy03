@@ -1,4 +1,39 @@
-# Labpy03
+# DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 4</b></td>
+    <td>LatihanVCS</td>
+    <td><a href="https://github.com/Aditya-Bani/LatihanVCS">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 5</b></td>
+    <td>Biodata</td>
+    <td><a href="">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 6</b></td>
+    <td>Lab1 dan 2</td>
+    <td><a href="https://github.com/Aditya-Bani/ProjectPraktikum">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>Lab3</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab3">Klik disini</td>
+  </tr>
+  <td><b>Pertemuan 7</b></td>
+  <td>Labspy02</td>
+  <td><a href="https://github.com/Aditya-Bani/Labspy02">Klik disini</td>
+  </tr>
+  <td><b>Pertemuan 7</b></td>
+  <td>Labspy03</td>
+  <td><a href="https://github.com/Aditya-Bani/Labspy03">Klik disini</td>
+</tr>
+
+</table>
+
+
+# Labspy03
 
 # PENJELASAN LOOPING
 
@@ -92,7 +127,7 @@
 **FLOWCHART**)
 
 
-![Image are easy](https://user-images.githubusercontent.com/46926758/53195549-73366280-3648-11e9-9741-4b5eba27802d.png)
+![Gambar6](Latihan2/Gambar/gbr6.PNG)
 
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON**
@@ -102,60 +137,53 @@
 - Lalu pilih menu file - New File atau juga bisa tekan **CTRL + N**
 - contoh nya seperti ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/menu%20nex%20file.PNG)
+![Image are easy](Latihan2/Gambar/gbr1.png)
 
 
 - Jika sudah lakukan kodingan seperti gambar di bawah ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/kodingan%20latihan%202.PNG)
+![Image are easy](Latihan2/Gambar/gbr5.PNG)
 
 
 - Jika sudah kalian bisa save program kalian dengan tekan **CTRL+S** atau mengklik menu file - save as dan beri nama pada program kalian
+
+![Gambar2](Latihan2/Gambar/gbr2.png)
+
 - lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN**
-- Perhatikan gambar dibawah ini !
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/save%20as%20dan%20run.png)
-
-
+![Gambar3](Latihan2/Gambar/gbr3.png)
 
 - Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/Hasil%20Latihan%202.PNG)
+![Image are easy](Latihan2/Gambar/gbr4.PNG)
 
 - Berikut penjelas Latihan2.py
 
-max=0
-
-while True:
-
-a=int(input('Masukkan bilangan='))
-
-if max < a:
-
-max = a
-
-if a==0:
-
-break
-
-print('Bilangan terbesarnya adalah',max)
+      1. max=0
+      2. while True:
+      3.   a=int(input('Masukkan bilangan='))
+      4.   if max < a:
+      5.      max = a
+      6.   if a==0:
+      7.      break
+      8. print('Bilangan terbesarnya adalah',max)
 
 
-"max"	: fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
+- "max"	: fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
 
-"while"	: disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak
+- "while"	: disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak
 perulangannya.
 
-"int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+- "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
 
-"if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+- "if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
 
-"input"	: masukan yang kita berikan ke program.
+- "input"	: masukan yang kita berikan ke program.
 
-"break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
+- "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
 
-"print"	: berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+- "print"	: berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 
 # Alur Algoritma program1.py
@@ -174,7 +202,7 @@ perulangannya.
 
 **FLOWCHART**
 
-![Image are easy](https://user-images.githubusercontent.com/46926758/53196983-d970b480-364b-11e9-846a-f738b6116a58.png)
+![Gambar6](Program1/Gambar/gbr6.PNG)
 
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON**
@@ -184,42 +212,49 @@ perulangannya.
 - Lalu pilih menu file - New File atau juga bisa tekan **CTRL + N**
 - contoh nya seperti ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/menu%20nex%20file.PNG)
+![Gambar1](Program1/Gambar/gbr1.png)
 
 
 - Jika sudah lakukan kodingan seperti gambar di bawah ini
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/kodingan%20program1.PNG)
+![Gambar2](Program1/Gambar/gbr2.PNG)
 
 - Jika sudah kalian bisa save program kalian dengan tekan **CTRL+S** atau mengklik menu file - save as dan beri nama pada program kalian
-- lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN**
-- Perhatikan gambar dibawah ini !
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/save%20as%20dan%20run.png)
+![Gambar3](Program1/Gambar/gbr3.png)
+
+- lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN**
+
+![Gambar4](Program1/Gambar/gbr4.png)
 
 - Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
-![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/Hasil%20Program1.PNG)
+![Image are easy](Program1/Gambar/gbr5.PNG)
 
-- Berikut penjelasan dari Program1.py
+## Berikut penjelasan dari Program1.py
 
-- masukkan nilai a
+    - masukkan nilai a
 
-- gunakan for untuk perulangan dari 1 sampai 8.Perulangan for disebut counted loop (perulangan yang terhitung)
+    - gunakan for untuk perulangan dari 1 sampai 8.Perulangan for disebut counted loop (perulangan yang terhitung)
 
-- lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2. cetak (x) dan (b)
+    - lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2. cetak (x) dan (b)
 
-- lalu gunakan if kedua untuk menentukan laba bulan ke 3 dan ke 4.masukan variabel (b) kalikan nilai (a) dengan data bulan 3 dan 4. cetak (x) dan (c)
+    - lalu gunakan if kedua untuk menentukan laba bulan ke 3 dan ke 4.masukan variabel (b) kalikan nilai (a) dengan data bulan 3 dan 4. cetak (x) dan (c)
 
-- lalu gunakan if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variabel (b) kalikan nilai (a) dengan data bulan 5 sampai 7. cetak (x) dan (d)
+    - lalu gunakan if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variabel (b) kalikan nilai (a) dengan data bulan 5 sampai 7. cetak (x) dan (d)
 
-- lalu gunakan if keempat untuk menentukan laba bulan ke 8.masukan variabel (b) kalikan nilai (a) dengan data bulan 8. cetak (x) dan (e)
+    - lalu gunakan if keempat untuk menentukan laba bulan ke 8.masukan variabel (b) kalikan nilai (a) dengan data bulan 8. cetak (x) dan (e)
 
-- lalu total keseluruhan.
+    - lalu total keseluruhan.
 
-- cetak total
+    - cetak total
 
-**SELAMAT MENCOBA,SEMOGA SUKSES,DAN TERIMA KASIH**
-
-👍 👍
+<p align="center">
+                  Nama : Aditya Bani Isro
+</p>
+<p align="center">
+                     NIM : 312010134
+</p>
+<p align="center">
+                     Kelas : TI.20 A.1
