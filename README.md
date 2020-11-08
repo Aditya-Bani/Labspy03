@@ -22,7 +22,7 @@
 
 **FLOWCHART LATIHAN1.PY**
 
-![Image are easy](https://user-images.githubusercontent.com/46926758/53193448-8e52a380-3643-11e9-9f3e-82b74718a6aa.png)
+![Image are easy](Latihan1/Gambar/gbr6.PNG)
 
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON**
